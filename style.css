@@ -30,7 +30,7 @@ body {
 .nav-list {
   display: flex;
   list-style: none;
-  gap: 1.5rem;
+  gap: 1rem;
   align-items: center;
   padding-right: 1rem;
 }
