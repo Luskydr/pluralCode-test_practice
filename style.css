@@ -8,7 +8,6 @@ body {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
-  font-variation-settings: "wdth" 100;
 }
 
 .container {
@@ -19,7 +18,7 @@ body {
 
 .nav {
   display: flex;
-  padding: 1.5rem 0;
+  padding-left: 1rem;
   justify-content: space-between;
   margin-bottom: 6rem;
 }
@@ -112,7 +111,7 @@ body {
 
 .illustrations-2 {
   width: 90%;
-  margin-left: 3rem;
+  margin-left: 1rem;
   margin-top: 2rem;
 }
 
